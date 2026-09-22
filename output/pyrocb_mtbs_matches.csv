@@ -1,0 +1,188 @@
+pyrocb_datetime,pyrocb_fire,year,mtbs_fire,distance_km,name_similarity,match_method
+2013-06-04 22:00:00,Thompson Ridge,2013,THOMPSON RIDGE,3.9,1.0,exact_name_year
+2013-06-11 23:00:00,Jaroso,2013,JAROSO,0.9,1.0,exact_name_year
+2013-06-12 18:15:00,Silver,2013,SILVER,12.5,1.0,exact_name_year
+2013-06-13 18:00:00,Silver,2013,SILVER,12.5,1.0,exact_name_year
+2013-06-20 20:45:00,West Fork,2013,WEST FORK,4331.2,1.0,exact_name_year
+2013-06-21 20:30:00,West Fork Complex,2013,WEST FORK COMPLEX,4.1,1.0,exact_name_year
+2013-06-21 21:00:00,West Fork Complex (Papoose),2013,WEST FORK COMPLEX,30.5,0.77,probable_match
+2013-06-22 14:11:00,East Peak,2013,EAST PEAK,1.5,1.0,exact_name_year
+2013-06-23 22:00:00,West Fork Complex,2013,WEST FORK COMPLEX,4.1,1.0,exact_name_year
+2013-06-26 21:32:00,West Fork Complex (Papoose),2013,WEST FORK COMPLEX,30.5,0.77,probable_match
+2013-06-27 18:00:00,Silver,2013,SILVER,12.5,1.0,exact_name_year
+2013-06-27 20:15:00,West Fork,2013,WEST FORK,4324.5,1.0,exact_name_year
+2013-06-28 14:30:00,Silver,2013,SILVER,12.5,1.0,exact_name_year
+2013-06-28 20:00:00,West Fork Complex,2013,WEST FORK COMPLEX,4.1,1.0,exact_name_year
+2013-06-30 18:45:00,Silver,2013,SILVER,12.5,1.0,exact_name_year
+2013-06-30 23:00:00,Yarnell Hill,2013,YARNELL HILL,5.3,1.0,exact_name_year
+2013-07-03 21:00:00,West Fork Complex,2013,WEST FORK COMPLEX,4.1,1.0,exact_name_year
+2013-07-04 20:00:00,Carpenter 1,2013,CARPENTER 1,8.6,1.0,exact_name_year
+2013-07-05 20:00:00,Carpenter 1,2013,CARPENTER 1,8.6,1.0,exact_name_year
+2013-07-26 21:15:00,Hardluck,2013,HARDLUCK,7.6,1.0,exact_name_year
+2013-08-09 03:30:00,Pony / Elk,2013,PONY COMPLEX,15.2,0.55,review
+2013-08-09 04:00:00,McCann,2013,MCCAN,3.8,0.91,probable_match
+2013-08-09 21:30:00,Pony / Elk,2013,PONY COMPLEX,15.2,0.55,review
+2013-08-10 20:00:00,Pony / Elk,2013,PONY COMPLEX,15.2,0.55,review
+2013-08-12 21:00:00,Pony / Elk,2013,PONY COMPLEX,15.2,0.55,review
+2013-08-12 23:00:00,Beaver Creek Complex,2013,BEAVER CREEK,4.2,0.75,probable_match
+2013-08-13 23:00:00,Pony / Elk,2013,PONY COMPLEX,15.2,0.55,review
+2013-08-15 00:00:00,Patch Springs,2013,PATCH SPRINGS,4.3,1.0,exact_name_year
+2013-08-16 21:41:00,Gold Pan Complex,2013,GOLD PAN COMPLEX,12.1,1.0,exact_name_year
+2013-08-16 23:41:00,Beaver Creek Complex,2013,BEAVER CREEK,10.9,0.75,probable_match
+2013-08-19 22:50:00,Minor Paradise Complex,2013,MINER PARADISE COMPLEX,9.0,0.95,probable_match
+2013-08-19 23:00:00,Rim,2013,RIM,14.2,1.0,exact_name_year
+2013-08-21 22:00:00,Rim,2013,RIM,14.2,1.0,exact_name_year
+2014-06-09 00:00:00,Two Bulls,2014,TWO BULLS FIRE,3.7,0.78,probable_match
+2014-07-02 22:00:00,,2014,DOTS,3.7,0.0,review
+2014-07-31 20:30:00,,2014,DAY,9.8,0.0,review
+2014-07-31 21:30:00,Bald,2014,BALD,6.0,1.0,exact_name_year
+2014-08-01 00:30:00,,2014,BEAVER COMPLEX,4.6,0.0,review
+2014-08-01 03:00:00,,2014,DAY,9.8,0.0,review
+2014-08-01 04:00:00,,2014,BEAVER COMPLEX,4.6,0.0,review
+2014-08-01 23:00:00,Bald,2014,BALD,6.0,1.0,exact_name_year
+2014-08-01 23:00:00,Eiler,2014,EILER,7.8,1.0,exact_name_year
+2014-08-02 01:00:00,Beaver Complex,2014,BEAVER COMPLEX,4.6,1.0,exact_name_year
+2014-08-02 20:30:00,,2014,BEAVER COMPLEX,4.6,0.0,review
+2014-08-02 21:30:00,,2014,BALD,8.0,0.0,review
+2014-08-03 00:30:00,,2014,KNF BEAVER,3.2,0.0,review
+2014-08-09 23:45:00,South Fork Complex,2014,SOUTH FORK COMPLEX,2.2,1.0,exact_name_year
+2014-08-11 22:00:00,July Complex,2014,COFFEE COMPLEX,22.0,0.62,review
+2015-07-31 00:30:00,Stouts,2015,STOUTS CREEK,3.8,0.67,probable_match
+2015-08-01 00:45:00,River Complex,2015,RIVER COMPLEX,13.5,1.0,exact_name_year
+2015-08-12 18:30:00,Cougar Creek,2015,COUGAR CREEK,9.4,1.0,exact_name_year
+2015-08-26 23:00:00,Campbells,2015,CAMPBELLS,8.9,1.0,exact_name_year
+2015-08-27 00:45:00,Tepee Springs,2015,TEPEE SPRINGS,7.8,1.0,exact_name_year
+2015-08-27 21:00:00,Tepee Springs,2015,TEPEE SPRINGS,7.8,1.0,exact_name_year
+2015-08-28 22:00:00,Family Peak Complex,2015,FAMILY PEAK COMPLEX,8.5,1.0,exact_name_year
+2016-06-21 21:30:00,Beaver Creek,2016,BEAVER CREEK,8.2,1.0,exact_name_year
+2016-06-22 00:15:00,Cedar,2016,CEDAR,9.9,1.0,exact_name_year
+2016-07-11 00:00:00,Hayden Pass,2016,HAYDEN PASS,3.1,1.0,exact_name_year
+2016-07-25 21:30:00,Lava Mountain,2016,LAVA MOUNTAIN,0.9,1.0,exact_name_year
+2016-07-26 18:45:00,Lava Mountain,2016,LAVA MOUNTAIN,0.9,1.0,exact_name_year
+2016-07-28 00:10:00,Beaver Creek,2016,BEAVER CREEK,8.2,1.0,exact_name_year
+2016-08-15 23:30:00,Maple,2016,MAPLE,20.7,1.0,exact_name_year
+2016-08-19 00:30:00,Pioneer,2016,PIONEER,16.1,1.0,exact_name_year
+2016-08-21 21:30:00,Pioneer,2016,PIONEER,16.1,1.0,exact_name_year
+2016-08-24 23:45:00,Henry's Creek,2016,HENRYS CREEK,5.8,0.96,probable_match
+2016-08-29 23:30:00,Pioneer,2016,PIONEER,16.1,1.0,exact_name_year
+2016-08-30 23:00:00,Pioneer,2016,PIONEER,16.1,1.0,exact_name_year
+2017-06-21 23:30:00,Brian Head,2017,BRIANHEAD,12.5,0.95,probable_match
+2017-07-02 00:00:00,Brian Head,2017,BRIANHEAD,12.5,0.95,probable_match
+2017-07-05 23:45:00,Keystone,2017,KEYSTONE,3.3,1.0,exact_name_year
+2017-08-12 20:30:00,Diamond Creek,2017,DIAMOND CREEK,4.2,1.0,exact_name_year
+2017-08-29 20:15:00,Roney (Horse Creek Complex),2017,MR RONEY,13.5,0.29,review
+2017-08-29 21:45:00,Diamond Creek,2017,DIAMOND CREEK,4.2,1.0,exact_name_year
+2017-08-29 22:30:00,Ibex,2017,IBEX,11.1,1.0,exact_name_year
+2017-08-30 00:00:00,Separation (Horse creek Complex),2017,MR SEPARATION,52.0,0.44,review
+2017-08-31 20:45:00,Sartin Draw,2017,SARTIN DRAW,8.7,1.0,exact_name_year
+2017-09-03 22:45:00,Meyers,2017,MEYERS,6.5,1.0,exact_name_year
+2017-09-03 23:00:00,Rice Ridge,2017,RICE RIDGE,5.9,1.0,exact_name_year
+2017-09-04 23:15:00,Eagle Creek,2017,EAGLE CREEK,9.7,1.0,exact_name_year
+2017-09-05 01:30:00,Norse Peak (see notes),2017,NORSE PEAK,0.5,0.62,review
+2018-05-11 19:00:00,Mallard,2018,MALLARD,10.7,1.0,exact_name_year
+2018-06-09 21:00:00,416,2018,416,9.3,1.0,exact_name_year
+2018-06-12 22:45:00,416,2018,416,9.3,1.0,exact_name_year
+2018-06-13 20:15:00,416,2018,416,9.3,1.0,exact_name_year
+2018-06-13 21:45:00,Badger Creek,2018,BADGER CREEK,10.2,1.0,exact_name_year
+2018-06-13 23:45:00,Trail Mountain,2018,TRAIL MOUNTAIN,2.7,1.0,exact_name_year
+2018-06-28 01:00:00,Spring,2018,SPRING CREEK,14.4,0.67,probable_match
+2018-06-28 20:00:00,Spring,2018,SPRING CREEK,14.4,0.67,probable_match
+2018-06-28 21:15:00,Sugarloaf,2018,SUGARLOAF,2.0,1.0,exact_name_year
+2018-06-30 23:00:00,Spring,2018,SPRING CREEK,14.4,0.67,probable_match
+2018-07-01 21:15:00,Spring,2018,SPRING CREEK,14.4,0.67,probable_match
+2018-07-02 22:15:00,Dollar Ridge,2018,DOLLAR RIDGE,8.4,1.0,exact_name_year
+2018-07-03 02:15:00,Weston Pass,2018,WESTON PASS,4.3,1.0,exact_name_year
+2018-07-05 01:15:00,Spring,2018,SPRING CREEK,14.4,0.67,probable_match
+2018-07-15 22:30:00,Ferguson,2018,FERGUSON,3.3,1.0,exact_name_year
+2018-07-25 02:00:00,Highland,2018,LANE,83.3,0.5,review
+2018-07-25 21:30:00,Cranston,2018,CRANSTON,9.7,1.0,exact_name_year
+2018-07-26 20:30:00,Cranston,2018,CRANSTON,9.7,1.0,exact_name_year
+2018-07-27 00:45:00,Carr,2018,CARR,6.3,1.0,exact_name_year
+2018-07-27 21:45:00,Carr,2018,CARR,6.3,1.0,exact_name_year
+2018-08-11 22:15:00,Monument Peak,2018,MONUMENT,5.5,0.76,probable_match
+2018-08-14 00:00:00,Rabbit Foot,2018,RABBIT FOOT,6.9,1.0,exact_name_year
+2018-08-17 20:30:00,Crescent Mountain,2018,CRESCENT MOUNTAIN,17.7,1.0,exact_name_year
+2018-09-06 00:45:00,Delta,2018,DELTA,16.1,1.0,exact_name_year
+2018-09-17 22:10:00,Roosevelt,2018,ROOSEVELT,17.6,1.0,exact_name_year
+2019-08-08 04:40:00,Williams Flats,2019,WILLIAMS FLATS,8.8,1.0,exact_name_year
+2019-08-08 23:00:00,Williams Flats,2019,WILLIAMS FLATS,8.8,1.0,exact_name_year
+2019-11-07 20:30:00,South Monroe Prescribed Fire Project,2019,SKULL FLAT,45.3,0.22,review
+2020-06-11 21:30:00,Bringham,2020,BRINGHAM,4.8,1.0,exact_name_year
+2020-07-17 23:50:00,Shafter,2020,SHAFTER,6.2,1.0,exact_name_year
+2020-07-21 01:20:00,Hog,2020,HOG,2.3,1.0,exact_name_year
+2020-07-21 23:45:00,Hog,2020,HOG,2.3,1.0,exact_name_year
+2020-07-24 01:00:00,Caldwell (part of July Complex),2020,CALDWELL,5.5,0.41,review
+2020-08-14 23:10:00,Williams Fork,2020,WILLIAMS FORK,10.6,1.0,exact_name_year
+2020-08-15 21:00:00,Loyalton,2020,LOYALTON,1.1,1.0,exact_name_year
+2020-08-15 21:20:00,Williams Fork,2020,WILLIAMS FORK,10.6,1.0,exact_name_year
+2020-08-15 21:30:00,Lake,2020,LAKE,5.6,1.0,exact_name_year
+2020-08-18 22:10:00,Lake,2020,LAKE,5.6,1.0,exact_name_year
+2020-08-19 03:20:00,Pine Gulch,2020,PINE GULCH,6.2,1.0,exact_name_year
+2020-08-19 21:30:00,Pine Gulch,2020,PINE GULCH,6.2,1.0,exact_name_year
+2020-08-23 18:40:00,Castle,2020,CASTLE,24.6,1.0,exact_name_year
+2020-09-05 19:40:00,Creek,2020,CREEK,15.0,1.0,exact_name_year
+2020-09-05 22:30:00,Cameron Peak,2020,CAMERON PEAK,25.7,1.0,exact_name_year
+2020-09-06 15:40:00,Creek,2020,CREEK,15.0,1.0,exact_name_year
+2020-09-06 21:10:00,Cameron Peak,2020,CAMERON PEAK,25.7,1.0,exact_name_year
+2020-09-06 22:30:00,Cameron Peak,2020,CAMERON PEAK,25.7,1.0,exact_name_year
+2020-09-07 22:50:00,Creek,2020,CREEK,15.0,1.0,exact_name_year
+2020-09-08 16:20:00,Hopkins (later amalgamated in the Elkhorn fire),2020,AUGUST COMPLEX,30.5,0.13,review
+2020-09-08 21:00:00,Bear (North Complex),2020,NORTH COMPLEX,11.3,0.79,probable_match
+2020-09-09 10:10:00,Bear (North Complex),2020,NORTH COMPLEX,11.3,0.79,probable_match
+2020-09-19 19:00:00,Mullen,2020,MULLEN,14.5,1.0,exact_name_year
+2020-10-06 18:45:00,SQF Complex,2020,CASTLE,24.5,0.35,review
+2020-10-22 00:00:00,East Troublesome,2020,EAST TROUBLESOME,14.8,1.0,exact_name_year
+2020-10-22 18:15:00,East Troublesome,2020,EAST TROUBLESOME,14.8,1.0,exact_name_year
+2021-06-12 21:00:00,Johnson,2021,JOHNSON,16.8,1.0,exact_name_year
+2021-06-15 01:40:00,Telegraph,2021,TELEGRAPH,20.7,1.0,exact_name_year
+2021-06-16 00:00:00,Telegraph,2021,TELEGRAPH,20.7,1.0,exact_name_year
+2021-06-16 02:30:00,Crooked Creek,2021,CROOKED CREEK,2.5,1.0,exact_name_year
+2021-06-18 21:50:00,Flatt,2021,FLATT,10.0,1.0,exact_name_year
+2021-06-20 23:20:00,Wyrick,2021,WYRICK,10.9,1.0,exact_name_year
+2021-07-01 01:20:00,Lava,2021,LAVA,2.8,1.0,exact_name_year
+2021-07-09 20:20:00,Beckwourth Complex,2021,SUGAR,11.1,0.17,review
+2021-07-13 01:40:00,Bootleg,2021,BOOTLEG,3.5,1.0,exact_name_year
+2021-07-14 22:20:00,Bootleg,2021,BOOTLEG,15.1,1.0,exact_name_year
+2021-07-16 00:10:00,Trail Creek,2021,TRAIL CREEK,8.4,1.0,exact_name_year
+2021-07-16 00:50:00,Bootleg,2021,BOOTLEG,15.1,1.0,exact_name_year
+2021-07-17 00:00:00,Bootleg,2021,BOOTLEG,15.1,1.0,exact_name_year
+2021-07-18 00:30:00,Bootleg,2021,BOOTLEG,15.1,1.0,exact_name_year
+2021-07-19 21:50:00,Dixie,2021,DIXIE,31.8,1.0,exact_name_year
+2021-07-29 21:10:00,Dixie (east side),2021,DIXIE,26.7,0.45,review
+2021-07-29 21:30:00,Dixie (west side),2021,DIXIE,40.3,0.45,review
+2021-07-30 02:20:00,Dixie (central portion),2021,DIXIE,13.1,0.36,review
+2021-07-30 20:50:00,McFarland,2021,MCFARLAND,16.1,1.0,exact_name_year
+2021-07-30 23:40:00,Cedar Creek,2021,CEDAR CREEK,1.7,1.0,exact_name_year
+2021-08-01 03:10:00,Stateline Complex (Tumbledown),2021,STATELINE COMPLEX,17.8,0.72,probable_match
+2021-08-05 02:20:00,Black Butte,2021,BLACK BUTTE,5.8,1.0,exact_name_year
+2021-08-05 20:40:00,Antelope,2021,ANTELOPE,13.8,1.0,exact_name_year
+2021-08-05 23:30:00,Monument,2021,MONUMENT,8.4,1.0,exact_name_year
+2021-08-06 20:00:00,Woods Creek,2021,WOODS CREEK,17.7,1.0,exact_name_year
+2021-08-10 02:10:00,Dixie,2021,DIXIE,21.1,1.0,exact_name_year
+2021-08-12 23:20:00,Dixie,2021,DIXIE,34.6,1.0,exact_name_year
+2021-08-13 00:20:00,Dixie,2021,DIXIE,56.5,1.0,exact_name_year
+2021-08-13 02:20:00,Patton Meadow (Fox Complex),2021,PATTON MEADOW,3.8,0.65,probable_match
+2021-09-09 20:00:00,Antelope,2021,ANTELOPE,20.4,1.0,exact_name_year
+2021-09-09 21:05:00,Cougar Peak,2021,COUGAR PEAK,9.1,1.0,exact_name_year
+2021-09-09 21:10:00,Dixie,2021,DIXIE,34.6,1.0,exact_name_year
+2021-09-09 21:20:00,Boundary,2021,BOUNDARY,10.2,1.0,exact_name_year
+2021-10-04 15:10:00,KNP Complex,2021,KNP COMPLEX,18.4,1.0,exact_name_year
+2021-10-04 21:30:00,KNP Complex,2021,KNP COMPLEX,18.4,1.0,exact_name_year
+2022-04-22 23:30:00,Calf Canyon/Hermits Peak,2022,HERMITS PEAK,15.6,0.67,probable_match
+2022-05-01 20:10:00,Calf Canyon/Hermits Peak,2022,HERMITS PEAK,15.6,0.67,probable_match
+2022-05-10 20:45:00,Calf Canyon/Hermits Peak,2022,HERMITS PEAK,15.6,0.67,probable_match
+2022-05-14 22:00:00,Calf Canyon/Hermits Peak,2022,HERMITS PEAK,15.6,0.67,probable_match
+2022-05-15 21:00:00,Calf Canyon/Hermits Peak,2022,HERMITS PEAK,15.6,0.67,probable_match
+2022-05-16 20:30:00,Black,2022,BLACK,14.9,1.0,exact_name_year
+2022-05-17 23:00:00,Plumtaw,2022,,,,unmatched
+2022-06-14 21:10:00,Calf Canyon/Hermits Peak,2022,HERMITS PEAK,19.4,0.67,probable_match
+2022-06-16 18:30:00,Calf Canyon/Hermits Peak,2022,HERMITS PEAK,19.4,0.67,probable_match
+2022-07-28 23:20:00,Moose,2022,MOOSE,11.1,1.0,exact_name_year
+2022-07-30 04:40:00,McKinney,2022,MCKINNEY,5.1,1.0,exact_name_year
+2022-07-30 21:30:00,McKinney,2022,MCKINNEY,5.1,1.0,exact_name_year
+2022-07-31 21:30:00,Moose,2022,MOOSE,11.1,1.0,exact_name_year
+2022-09-07 22:00:00,Moose,2022,MOOSE,9.8,1.0,exact_name_year
+2022-09-08 20:40:00,Mosquito,2022,MOSQUITO,11.1,1.0,exact_name_year
+2022-09-11 00:00:00,Cedar Creek,2022,CEDAR CREEK,8.9,1.0,exact_name_year
+2023-06-16 17:40:00,Pulp Road,2023,,,,unmatched
+2023-07-29 18:50:00,York,2023,YORK,8.5,1.0,exact_name_year

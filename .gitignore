@@ -1,0 +1,9 @@
+# Large.raw datasets
+data/
+
+# Compiled Fortran executables
+fortran/filter_fires
+
+# Python junk
+__pycache__/
+*.pyc

@@ -7,3 +7,4 @@ fortran/filter_fires
 # Python junk
 __pycache__/
 *.pyc
+.venv/
